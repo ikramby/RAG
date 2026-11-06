@@ -1,0 +1,5 @@
+.venv/
+db/
+document.pdf
+.env
+__pycache__/
